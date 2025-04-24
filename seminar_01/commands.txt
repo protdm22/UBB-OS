@@ -1,0 +1,18 @@
+############################################################################################################
+List of commands:
+
+
+	. - any character
+	\ - change meaning special <-> normal
+	[abc] - any char from list ([a-z],[0-9],[A-Z])
+	[^abc] - any char except list (abc)
+	^ - beggining of line
+	$ - end of line
+	* -previous expression repeated 0 or more times
+	+ -||- 1 or more times
+	? - 0 or 1 (previous expression)
+	{n,m} - previous expression repeated at list n times at most m times
+	\< - beginning of word
+	\> - end of word
+	| - or
+

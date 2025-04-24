@@ -1,0 +1,45 @@
+# Compiled object files
+*.o
+*.obj
+
+# Linker output
+*.bin
+*.elf
+*.exe
+*.out
+
+# Assembly listing and debug files
+*.lst
+*.map
+*.sym
+
+# Kernel images
+*.img
+*.iso
+
+# Build directories
+/build/
+/out/
+
+# Logs
+*.log
+
+# Core dumps
+core
+
+# Temporary files
+*~
+*.swp
+*.swo
+*.tmp
+
+# VSCode / JetBrains / CLion configs
+.vscode/
+.idea/
+
+# Makefile auto-deps
+.dep
+
+# Generated files
+tags
+
